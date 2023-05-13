@@ -21,5 +21,5 @@ Just a fun project made it for my brother working more on images.
 
 Run tests:
 ```$xslt
-compile exec:java "-Dexec.args=input output 800 800"
+mvn compile exec:java "-Dexec.args=input output 800 800"
 ```
